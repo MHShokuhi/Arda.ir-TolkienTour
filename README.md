@@ -3,7 +3,7 @@
 
 You can see the most important points in J.R.R. Tolkien's life and all his important publications to this date in a beautiful timeline.
 
-Timeline code is based on [Mert Cukuren](http://codepen.io/knyttneve/pen/bgvmma) work
+Timeline code is based on [Mert Cukuren](https://codepen.io/knyttneve/pen/bgvmma) work
 
 Back to top button is based on Claudia Romano work at https://github.com/CodyHouse/back-to-top
 
