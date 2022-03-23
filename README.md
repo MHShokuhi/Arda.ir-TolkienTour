@@ -1,5 +1,5 @@
 # Arda.ir-TolkienTour
-## visualizing important moment of J.R.R. Tolkien's life as a timeline
+## visualizing important moments of J.R.R. Tolkien's life as a timeline
 
 You can see the most important points in J.R.R. Tolkien's life and all his important publications to this date in a beautiful timeline.
 
